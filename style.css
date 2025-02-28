@@ -1,0 +1,23 @@
+body {
+    padding-top: 56px;
+}
+
+#hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #f8f9fa;
+}
+
+.progress {
+    height: 25px;
+}
+
+.progress-bar {
+    background-color: #212529;
+    padding: 5px;
+}
+
+section {
+    scroll-margin-top: 56px;
+}
